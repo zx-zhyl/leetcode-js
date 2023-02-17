@@ -1,2 +1,2 @@
 # leetcode-js
-leetcode算法练习
+记录leetcode比较经典的算法题
